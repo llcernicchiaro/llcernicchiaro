@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lorenzo Cernicchiaro
+- 👀 I’m interested in web and mobile development with javascript
+- 🌱 I’m currently learning serverless, aws tools, nodeJS, etc.
+- 📫 How to reach me @_lorenzolopes or @llcernicchiaro on social media
